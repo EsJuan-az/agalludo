@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html, body{
+    overflow: hidden;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?cs=srgb&dl=pexels-olia-danilevich-5466789.jpg&fm=jpg");
+    background-size: 1365px 720px;
+}
+
+/*  */
+/* https://t3.ftcdn.net/jpg/00/01/41/46/360_F_1414609_Ohmw6cmRpeyy8eJTHQjO3ijtYiMATc.jpg */
